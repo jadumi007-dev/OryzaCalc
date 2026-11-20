@@ -1,0 +1,6 @@
+{
+  "name": "ধান চাষ ক্যালকুলেটর",
+  "description": "বাংলাদেশের আউশ, আমন ও বোরো মৌসুমের ধান চাষ, বৃদ্ধি পর্যায়, সার হিসাব ও ফলন রূপান্তর অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

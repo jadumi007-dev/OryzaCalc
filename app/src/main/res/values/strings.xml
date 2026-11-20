@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ধান চাষ ক্যালকুলেটর</string>
+    <string name="dae_subtitle">কৃষি সম্প্রসারণ সহায়িকা</string>
+    <string name="offline_ready">অফলাইন সচল</string>
+    <string name="notification_channel_name">ধান চাষ ও সার প্রয়োগ রিমাইন্ডার</string>
+    <string name="notification_channel_desc">সার প্রয়োগ ও সেচ ব্যবস্থাপনার গুরুত্বপূর্ণ তারিখের নোটিফিকেশন</string>
+</resources>
